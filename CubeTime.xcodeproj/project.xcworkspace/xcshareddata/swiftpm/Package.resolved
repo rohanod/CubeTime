@@ -1,0 +1,42 @@
+{
+  "originHash" : "bd0066f47568b67feb1deaee757eb87a190ba2aad49ef359417423e2412468a4",
+  "pins" : [
+    {
+      "identity" : "lzstring-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Ibrahimhass/lzstring-swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4b6d24b0e3eff2d8ca37bfd31170cbecd77fa09a"
+      }
+    },
+    {
+      "identity" : "svgview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/SVGView",
+      "state" : {
+        "revision" : "6465962facdd25cb96eaebc35603afa2f15d2c0d",
+        "version" : "1.0.6"
+      }
+    },
+    {
+      "identity" : "swiftfulloadingindicators",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftfulThinking/SwiftfulLoadingIndicators",
+      "state" : {
+        "revision" : "85858c0246dcd781228301f9928519f75ce89758",
+        "version" : "0.0.4"
+      }
+    },
+    {
+      "identity" : "zipfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/weichsel/ZIPFoundation.git",
+      "state" : {
+        "revision" : "02b6abe5f6eef7e3cbd5f247c5cc24e246efcfe0",
+        "version" : "0.9.19"
+      }
+    }
+  ],
+  "version" : 3
+}
